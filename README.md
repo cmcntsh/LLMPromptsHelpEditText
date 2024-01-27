@@ -22,7 +22,7 @@ Prompt: Reorder the numbered list.
 please relist the sentences in the following order [list the new order with values separated by commas here]
 ```
 
-Prompt: Create an outline of text ordered by paragraphs (This created an outline based on the paragraphs with the main topic of each first sentence used as level 1 headings.)
+**Prompt: Create an outline of text ordered by paragraphs** (This created an outline based on the paragraphs with the main topic of each first sentence used as level 1 headings. I like this prompt quite a bit. It made it easier to see when the writing may be fragmented and important points may be buried in the text.)
 
 ```
 Please list the following sentences in outline format. Have the first sentence of each paragraph as level 1 and the remaining sentences in each paragraph as level 2. Here are the sentences: "[paste text here]"
