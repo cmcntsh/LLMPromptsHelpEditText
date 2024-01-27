@@ -34,6 +34,12 @@ Prompt: Create an outline of sentences (This created an outline based on the par
 Please list the following sentences in outline format. Identify the main topic of each paragraph as level 1 and the remaining sentences in each paragraph as level 2. Here are the sentences: "[paste text here]"
 ```
 
+Prompt: Have LLM suggest how to organize sentences (This is only partially successful. I didn't fully agree with some of the organization choices.)
+
+```
+I have a collection of sentences. Please organize the sentences into groups by topics and suggest an order of presentation that would make sense to a reader. Please rewrite the collection of sentences as coherent paragraphs based on the order you suggest. Here are the sentences: "[paste text here]"
+```
+
 ## 2. Copy Editing
 
 * https://www.grammarly.com/blog/whats-the-difference-between-copy-editing-and-proofreading/
