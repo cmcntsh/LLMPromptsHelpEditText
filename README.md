@@ -44,7 +44,7 @@ I have a collection of sentences. Please organize the sentences into groups by t
 
 * https://www.grammarly.com/blog/whats-the-difference-between-copy-editing-and-proofreading/
 
-#### Generate a writing report and suggested revision 
+### Generate a writing report and suggested revision 
 
 Prompt: (I get inconsistent results with the report, but the revision text is not bad.)
 
